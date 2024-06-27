@@ -1,0 +1,1 @@
+python FaceBlur-master\files\Blur.py --input_video FaceBlur-master\Inputs\input.mp4 --model_path  FaceBlur-master\AI_model\model.pb  --threshold 0.15
